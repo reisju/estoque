@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/02/27 21:02:20.000.507,=C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/02/27 21:02:43.000.196,=C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/02/27 21:20:28.000.916,=C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2025/02/27 21:37:39.000.701,C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\estoque\unt_cadItem.pas</Transaction>
+    <Transaction>2025/02/27 21:37:39.000.701,C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\estoque\unt_cadItem.dfm</Transaction>
+    <Transaction>2025/02/27 21:38:23.000.628,C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\estoque\unt_principal.dfm</Transaction>
+    <Transaction>2025/02/27 21:38:23.000.628,C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\estoque\unt_principal.pas</Transaction>
+    <Transaction>2025/02/27 21:43:07.000.063,C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\estoque\estoque.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
