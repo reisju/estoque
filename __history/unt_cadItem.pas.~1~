@@ -13,8 +13,6 @@ type
     txtNomeItem: TEdit;
     qryCadItem: TADOQuery;
     txtDesricaoItem: TEdit;
-    Name: TLabel;
-    Label1: TLabel;
     procedure Button1Click(Sender: TObject);
   private
     { Private declarations }
